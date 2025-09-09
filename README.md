@@ -1,7 +1,6 @@
 # 🧬 Breast Cancer Prediction App
 
 This is a **Streamlit web application** that predicts whether a breast tumor is **Benign** or **Malignant** based on user-provided input features.  
-The model is trained on the **Breast Cancer Wisconsin Dataset** from `scikit-learn`.
 
 ---
 
