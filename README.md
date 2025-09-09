@@ -33,19 +33,19 @@ The model is trained on the **Breast Cancer Wisconsin Dataset** from `scikit-lea
    git clone https://github.com/your-username/breast-cancer-prediction.git
    cd breast-cancer-prediction
 
-2.**Install dependencies**
+2. **Install dependencies**
    ```bash
-pip install -r requirements.txt
- ```
-or manually
-```bash
-pip install streamlit scikit-learn pandas numpy
-```
+   pip install -r requirements.txt
+   ```
+or **manually**
+   ```bash
+   pip install streamlit scikit-learn pandas numpy
+   ```
 
-3.**Run the app**
-```bash
-streamlit run app.py
-```
+3. **Run the app**
+    ```bash
+    streamlit run app.py
+     ```
 or open on your browser from the link in description 
 
 ## 📊 Dataset
